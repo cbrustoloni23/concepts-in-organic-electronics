@@ -10,7 +10,7 @@ ini_set('display_errors', 1);
 <title>Concepts in Organic Electronics</title>
 <meta name="keywords" content="	thin film,photonics,organic,semiconductor,organic light emitting diode,organic photovoltaic,artificial eye,OVPD,OMBD,OLED,OPV,Forrest,textbook
 " />
-<meta name="description" content="test test Concepts in Organic Electronics, written by Dr. Stephen Forrest, is aimed at undergraduates, graduate students, and practicing engineers. This textbook covers the essential principles of organic electronics from its fundamental concepts through to describing archetype devices that exploit the unique properties of the immense materials family of organic semiconductors in use today." />
+<meta name="description" content="Concepts in Organic Electronics, written by Dr. Stephen Forrest, is aimed at undergraduates, graduate students, and practicing engineers. This textbook covers the essential principles of organic electronics from its fundamental concepts through to describing archetype devices that exploit the unique properties of the immense materials family of organic semiconductors in use today." />
 <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
 <link href="phppot-style.css" type="text/css" rel="stylesheet" />
 <link href="user-registration.css" type="text/css" rel="stylesheet" />
